@@ -15,7 +15,7 @@ export default function About() {
         <div className="about-text">
           <h2>About Me</h2>
           <p>
-            My name is Angel. I am currently a 3rd-year Computer Science student at the University of Cabuyao.
+            My name is Angelito Flordeliza. I am currently jobless, and a 3rd-year Computer Science student at the University of Cabuyao.
           </p>
           <p>
             I have a strong interest in technology and enjoy exploring new tools and software that enhance learning and productivity.
