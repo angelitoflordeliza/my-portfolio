@@ -4,11 +4,11 @@ export default function Footer() {
       <h3 className="footer-heading">Contact Me</h3>
 
       <div className="footer-links">
-        <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://wwww.facebook.com/fngeloti" target="_blank" rel="noopener noreferrer">
           <img src="/fb.png" alt="Facebook" className="footer-icon" />
         </a>
 
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/angelitoflordeliza" target="_blank" rel="noopener noreferrer">
           <img src="/github-icon.png" alt="GitHub" className="footer-icon" />
         </a>
       </div>
